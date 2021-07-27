@@ -1,6 +1,8 @@
 ## Mappings for my Switch Couture Alice  
 
-Just using this as a store for my JSON that contains all my SuPeR SiCK bindings.  
+Just using this as a store for my JSON that contains all my SuPeR SiCK bindings.   
+
+Update: Will also be using this for my .rc files going forward so I don't lose them to the sands of time.     
 
 ### Board Specs:
 
