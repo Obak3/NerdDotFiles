@@ -1,15 +1,17 @@
-## Mappings for my Switch Couture Alice  
+# Dot Files for all of my needlessly customized software
 
-Just using this as a store for my JSON that contains all my SuPeR SiCK bindings.   
-
-Update: Will also be using this for my .rc files going forward so I don't lose them to the sands of time.     
+**Types of Software**
+1. Keyboard Mappings
+2. Vim configs
+3. Zshell configs
 
 ### Board Specs:
 
-	Case: Switch Couture Alice   	
-	PCB: Project Keyboards Alice PCB   
-	Switches: Gateron Ink Blacks lubed w/ Tribosys    
-	Keycaps: GMK Red Samurai and an S-Craft Gengar Artisan to make sure I don't rip out my hair when coding   
+	Case: Mode 80 in white with an Imperial Red alu back
+	PCB: Mode hotswap PCB
+	Switches: Stock Anubis Switches (They come pre-lubed, but are a hard 10/10)
+	Keycaps: Some cheap PBT knockoffs from (A)mazon
+	Stabilizers: Durock v2 lubed with Krytox 205g0
 
 #### Highly Anticipated Picture:
 
