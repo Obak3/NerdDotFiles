@@ -1,9 +1,8 @@
 # Dot Files for all of my needlessly customized software
 
 **Types of Software**
-1. Keyboard Mappings
-2. Vim configs
-3. Zshell configs
+1. vim config
+2. zshell config
 
 ### Board Specs:
 
